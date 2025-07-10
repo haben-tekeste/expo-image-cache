@@ -1,0 +1,38 @@
+{
+  "name": "@haben_t/expo-image-cache",
+  "version": "1.0.0",
+  "description": "Image caching for expo web and native platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haben-tekeste/expo-image-cache.git"
+  },
+  "keywords": [
+    "caching",
+    "image",
+    "react",
+    "native",
+    "expo",
+    "android",
+    "ios",
+    "web"
+  ],
+  "author": "hty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haben-tekeste/expo-image-cache/issues"
+  },
+  "homepage": "https://github.com/haben-tekeste/expo-image-cache#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "expo": "^53.0.19",
+    "expo-file-system": "^18.1.11",
+    "react": "^19.1.0",
+    "react-native": "^0.80.1"
+  }
+}
